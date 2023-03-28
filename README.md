@@ -6,7 +6,11 @@ Jira. Using _.NET 7, ASP.NET Core and Entity Framework Core_.
 This project was developed as an technical test for a job position in the course
 of 5 days.
 
-### Some notes about the source code and design decisions
+### Deployment
+- [Swagger UI on Azure](https://lattice-api.azurewebsites.net/swagger/index.html)
+
+
+#### Some notes about the source code and design decisions
 
 This project does not use what is commonly referred to as _Repositories_. Since
 their purpose is to abstract data persistence operations - and I do not intend
