@@ -7,7 +7,7 @@ This project was developed as an technical test for a job position in the course
 of 5 days.
 
 ### Deployment
-- [Swagger UI on Azure](https://lattice-api.azurewebsites.net/swagger/index.html)
+- [Swagger UI on Azure](https://lattice-api.azurewebsites.net/swagger/index.html)  (OFFLINE)
 
 
 #### Some notes about the source code and design decisions
